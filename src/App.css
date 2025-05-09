@@ -4008,3 +4008,13 @@ section.section-card:hover h3::after {
     bottom: -5px;
   }
 }
+
+/* Remove CV Download Card styles */
+/* CV Download Card */
+.cv-download-card {
+  display: none;
+}
+
+.cv-card-image {
+  display: none;
+}

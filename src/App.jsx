@@ -1113,7 +1113,7 @@ function App() {
       aboutSection.scrollIntoView({ behavior: 'smooth' });
     }
   };
-  
+
   return (
     <div className="portfolio-container">
       <Navbar />
@@ -1147,7 +1147,7 @@ function App() {
               </div>
               <div className="hero-buttons">
                 <a href="#contact" className="primary-button">Get in Touch</a>
-                <a href="/resume.pdf" download className="secondary-button">Download CV <span className="download-icon">📄</span></a>
+                <a href="/Lingeshwarkulal (3).pdf" download="Lingeshwar_Kulal_Resume.pdf" className="secondary-button">Download CV <span className="download-icon">📄</span></a>
               </div>
             </div>
             <div className="hero-right">
